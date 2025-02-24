@@ -47,6 +47,9 @@ This repository contains all the Python scripts I developed as part of my intern
    ```bash
    git clone https://github.com/faisalrafiq031/Python-Al-Junaid-Tech.git
 
+   or
+   pip install notebook  (for installing jupyter Notebook)
+
 2. Navigate to the folder:
 
    ```bash
@@ -55,7 +58,9 @@ This repository contains all the Python scripts I developed as part of my intern
 3. Run a Python script in Git Bash: 
 
    ```bash
-   python Task1.ipynb
+   python Task1.py   (If using .py format paste my code in your file)
+   OR
+   jupyter notebook Task1.ipynb
 
 ## 🎯 What I Learned
 
